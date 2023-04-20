@@ -1,5 +1,5 @@
 /**
- * @function HaversineDistance
+ * @function HaversineDistance 
  * @description Calculate the distance between two coordinates using the haversine formula
  * @param {Integer} latitude1 - The input integer
  * @param {Integer} latitude2 - The input integer
